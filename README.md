@@ -18,8 +18,9 @@ http://shop.oreilly.com/product/0636920018254.do
 
 # Github repositories 
 https://github.com/pmaji/data-science-toolkit
-
- https://github.com/UDST/omx
+https://github.com/diegoalejogm/gans
+https://github.com/UDST/omx
 
 # Courses 
 https://sites.google.com/view/berkeley-cs294-158-sp20/home
+

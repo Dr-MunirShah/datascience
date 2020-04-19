@@ -8,3 +8,15 @@ https://www.springboard.com/blog/data-science-toolkit/
 # Deep learning models
 # machine learning models
 # Data science in Agriculture sector
+# GIS and geo-coding
+http://www.datasciencetoolkit.org/
+https://github.com/petewarden/dstk
+
+#Books 
+Data Source Handbook
+http://shop.oreilly.com/product/0636920018254.do
+
+# Github repositories 
+https://github.com/pmaji/data-science-toolkit
+
+# https://github.com/UDST/omx

@@ -12,7 +12,7 @@ https://www.springboard.com/blog/data-science-toolkit/
 http://www.datasciencetoolkit.org/
 https://github.com/petewarden/dstk
 
-#Books 
+# Books 
 Data Source Handbook
 http://shop.oreilly.com/product/0636920018254.do
 

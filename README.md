@@ -24,3 +24,8 @@ https://github.com/UDST/omx
 # Courses 
 https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
+
+# python pandas data frames 
+
+* initilizing data frame with lists 
+https://www.geeksforgeeks.org/create-a-pandas-dataframe-from-lists/

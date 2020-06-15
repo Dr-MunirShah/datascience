@@ -2,6 +2,9 @@
 This repository contains data science tools and methods, and my take and notes on some of them
 https://www.springboard.com/blog/data-science-toolkit/
 
+# 24 datascience prjects 
+https://www.analyticsvidhya.com/blog/2018/05/24-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+
 # Data Visualization
 # Python Jupyter notebooks 
 # Data analysis

@@ -24,6 +24,8 @@ https://github.com/UDST/omx
 # Courses 
 https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
+## aggregate 
+https://www.shanelynn.ie/summarising-aggregation-and-grouping-data-in-python-pandas/
 
 # python pandas data frames 
 
